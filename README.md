@@ -1,4 +1,4 @@
 misc
 ====
 
-miscellaenous
+miscellaenous code, snippets, utilities, etc.
